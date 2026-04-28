@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey%2C%20I'm%20[YourName]%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Enthusiast%20%7C%20Cloud%20Computing%20Explorer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey%2C%20I'm%20Mahi Priya%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Enthusiast%20%7C%20Cloud%20Computing%20Explorer&descAlignY=58&descSize=18" />
 
 <!-- Typing Animation -->
 <a href="https://github.com/yourusername">
