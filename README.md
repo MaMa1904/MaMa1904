@@ -1,217 +1,208 @@
 <div align="center">
 
-<!-- Top wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00cfff,100:0d1117&height=150&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:111827,100:00cfff&height=180&section=header&text=MAHI%20PRIYA&fontSize=70&fontColor=00e5ff&fontAlignY=55&animation=fadeIn"/>
 
-<!-- Floating animated name on dark background -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=130&text=MAHI%20PRIYA&fontSize=82&fontColor=00cfff&fontAlignY=60&animation=twinkling&stroke=00cfff&strokeWidth=1"/>
+### ☁️ Cloud Engineer in Progress · DevOps Enthusiast · Automation Lover
 
-<!-- Desc line on matching dark bg -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=36&text=%5B%20DevOps%20Engineer%20%7C%20Cloud%20Enthusiast%20%5D&fontSize=13&fontColor=7dd8f8&fontAlignY=65"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&height=45&lines=Cloud+Infrastructure+%7C+Automation+%7C+DevOps;Building+cloud-native+projects+%F0%9F%9A%80;Learning+Docker+%7C+Kubernetes+%7C+Terraform;Turning+%22it+works%22+into+%22it+scales%22+%E2%9A%A1" />
 
-<!-- Glitch cycling tag line below the name -->
-[![Glitch Name](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=20&duration=2500&pause=1200&color=00CFFF&background=0d1117&center=true&vCenter=true&width=700&height=35&lines=_%20MAHI_PRIYA_%20;%3E%20MAHI+PRIYA+%3C;%5B+MAHI+PRIYA+%5D;%2F%2F+MAHI+PRIYA)](https://github.com/MaMa1904)
+<br>
 
-</div>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=%24+echo+%22Hello%2C+World!+I%27m+Mahi+Priya+%F0%9F%91%8B%22;%24+kubectl+get+pods+--all-namespaces+%E2%9C%85;%24+terraform+apply+--auto-approve+%F0%9F%9B%A0%EF%B8%8F;%24+docker+build+-t+mahi-priya%2Fawesome+.+%F0%9F%90%B3;%24+git+push+origin+main+%E2%9C%A8;%24+ansible-playbook+deploy.yml+--become+%E2%9A%99%EF%B8%8F)](https://github.com/MaMa1904)
+[![GitHub](https://img.shields.io/badge/GitHub-MaMa1904-0d1117?style=for-the-badge\&logo=github\&logoColor=00e5ff)](https://github.com/MaMa1904)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge\&logo=linkedin\&logoColor=00e5ff)](https://www.linkedin.com/in/mahi-priya-boppudi-584180297)
 
 </div>
 
 ---
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+## 👋 Hey, I'm Mahi!
 
-### `~/mahi-priya » cat about.yaml`
+I'm a **Cloud & DevOps enthusiast** who enjoys turning infrastructure, automation and cloud services into things that actually work.
 
-```yaml
-# ╔══════════════════════════════════════╗
-# ║        mahi_priya.config.yaml        ║
-# ╚══════════════════════════════════════╝
+☁️ Exploring **Cloud Engineering & AWS**
 
-identity:
-  name: "Mahi Priya"
-  location: "India 🇮🇳"
-  role: "DevOps Enthusiast & Cloud Explorer"
+🐳 Building with **Docker & containers**
 
-current_sprint:
-  building:   "End-to-end CI/CD → GitHub Actions + Docker"
-  studying:   "Kubernetes CKA certification path"
-  exploring:  "Terraform modules & multi-cloud IaC"
-  open_to:    "Open source DevOps projects & collabs"
+⚙️ Automating workflows with **GitHub Actions**
 
-core_beliefs:
-  - "Every manual step is a bug, not a feature"
-  - "Automate it once, deploy it forever"
-  - "Infrastructure should be code, not chaos"
+☸️ Learning **Kubernetes**
 
-fun_fact: >
-  I treat YAML files like poetry —
-  every indentation matters. 🐍
-```
+🏗️ Exploring **Terraform & Infrastructure as Code**
 
-<br clear="right"/>
+🔭 Interested in **cloud-native systems, automation and open source**
 
 ---
 
-### `~/mahi-priya » ./show-pipeline.sh`
+## 🚀 What I'm Building
 
-```
- ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
- │   📝 CODE   │───▶│  🔍 BUILD  │───▶│  🧪 TEST   │───▶│  📦 STAGE  │───▶│  🚀 PROD   │
- │   GitHub    │    │   Docker    │    │  Unit+Intg  │    │  Kubernetes │    │  Live! ✅   │
- └─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘
-      PUSH                CI                 QA               DEPLOY             MONITOR
-  GitHub Actions      Image Build          pytest            Helm Chart        Prometheus 📊
-```
+<table>
+<tr>
+<td width="50%">
+
+### ☁️ Cloud Engineering
+
+* AWS cloud architecture
+* Serverless applications
+* IAM & cloud security
+* Scalable infrastructure
+* Monitoring & observability
+
+</td>
+
+<td width="50%">
+
+### ⚙️ DevOps
+
+* CI/CD pipelines
+* Docker containers
+* Kubernetes
+* Infrastructure as Code
+* Automation
+
+</td>
+</tr>
+</table>
 
 ---
 
-### `~/mahi-priya » cat tech-stack.txt`
+## 🧰 Tech Stack
 
 <div align="center">
 
-**☁️ &nbsp;Cloud Platforms**
+### ☁️ Cloud
 
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
-[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)
+<img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/>
+<img src="https://img.shields.io/badge/GCP-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
 
-**🐳 &nbsp;Containers & Orchestration**
+### 🐳 Containers & Orchestration
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
-[![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh)
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/Helm-0d1117?style=for-the-badge&logo=helm&logoColor=0F1689"/>
 
-**⚙️ &nbsp;CI/CD & Automation**
+### ⚙️ Automation & CI/CD
 
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://jenkins.io)
-[![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://argoproj.github.io)
+<img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+<img src="https://img.shields.io/badge/Jenkins-0d1117?style=for-the-badge&logo=jenkins&logoColor=D24939"/>
+<img src="https://img.shields.io/badge/ArgoCD-0d1117?style=for-the-badge&logo=argo&logoColor=EF7B4D"/>
 
-**🛠️ &nbsp;Infrastructure as Code**
+### 🏗️ Infrastructure as Code
 
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
-[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://ansible.com)
+<img src="https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=7B42BC"/>
+<img src="https://img.shields.io/badge/Ansible-0d1117?style=for-the-badge&logo=ansible&logoColor=EE0000"/>
 
-**💻 &nbsp;Languages & Scripting**
+### 💻 Languages & Systems
 
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://gnu.org/software/bash)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org)
-[![HCL](https://img.shields.io/badge/HCL-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/hashicorp/hcl)
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/>
+<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/>
 
-**📊 &nbsp;Monitoring & Observability**
+### 📊 Monitoring
 
-[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io)
-[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com)
-[![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/oss/loki)
-[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)](https://opentelemetry.io)
-
-**🐧 &nbsp;OS & Version Control**
-
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-
-</div>
-
-
----
-
-### `~/mahi-priya » cat telemetry/stats.log`
-
-<div align="center">
-
-<!-- GitHub Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaMa1904&show_icons=true&theme=dark&bg_color=0d1117&border_color=00b4d8&title_color=00e5ff&text_color=c9d1d9&icon_color=00b4d8&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github"/>
-
-<!-- Top Languages Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaMa1904&layout=compact&theme=dark&bg_color=0d1117&border_color=00b4d8&title_color=00e5ff&text_color=c9d1d9&icon_color=00b4d8&langs_count=8&hide_border=false"/>
-
-</div>
-
-<div align="center">
-
-<!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=MaMa1904&theme=dark&background=0d1117&border=00b4d8&stroke=00b4d8&ring=00e5ff&fire=00e5ff&currStreakNum=00e5ff&sideNums=c9d1d9&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=c9d1d9" alt="GitHub Streak" />
+<img src="https://img.shields.io/badge/Prometheus-0d1117?style=for-the-badge&logo=prometheus&logoColor=E6522C"/>
+<img src="https://img.shields.io/badge/Grafana-0d1117?style=for-the-badge&logo=grafana&logoColor=F46800"/>
+<img src="https://img.shields.io/badge/Loki-0d1117?style=for-the-badge&logo=grafana&logoColor=F46800"/>
 
 </div>
 
 ---
 
-### `~/mahi-priya » tail -f logs/activity.stream`
-
-```
-[LIVE]  📊  Contribution graph ──────────────────────────────────────────────
-```
+# 📊 GitHub Activity
 
 <div align="center">
 
-[![Mahi Priya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaMa1904&bg_color=0d1117&color=00e5ff&line=00b4d8&point=00e5ff&area=true&area_color=00b4d8&hide_border=false&border_color=00b4d8&custom_title=Contribution%20Telemetry)](https://github.com/MaMa1904)
+### 💻 My GitHub at a Glance
+
+<img src="https://github-readme-stats.vercel.app/api?username=MaMa1904&show_icons=true&theme=dark&bg_color=0d1117&border_color=00b4d8&title_color=00e5ff&text_color=c9d1d9&icon_color=00b4d8&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaMa1904&theme=github_dark"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=MaMa1904&theme=dark&background=0d1117&border=00b4d8&stroke=00b4d8&ring=00e5ff&fire=00e5ff&currStreakNum=00e5ff&sideNums=c9d1d9&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=c9d1d9"/>
 
 </div>
 
 ---
 
-### `~/mahi-priya » cat telemetry/languages.json`
-
-```json
-{
-  "stack_profile": {
-    "primary":    ["Python 🐍", "Bash/Shell 💻", "YAML ⚙️"],
-    "iac":        ["HCL (Terraform) 🏗️", "Jinja2 (Ansible) 🤖"],
-    "config":     ["Dockerfile 🐳", "Kubernetes manifests ☸️"],
-    "scripting":  ["Makefile 🛠️", "JSON 📦"]
-  },
-  "auto_detected_from": "github.com/MaMa1904",
-  "source": "github-readme-stats top-langs widget ☝️"
-}
-```
+## 📈 Contribution Graph
 
 <div align="center">
 
-<!-- WakaTime (optional — activate at wakatime.com) -->
-<!-- Uncomment after connecting WakaTime to your editor:
-[![Mahi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaMa1904&theme=dark&bg_color=0d1117&border_color=00b4d8&title_color=00e5ff&text_color=c9d1d9&layout=compact)](https://wakatime.com/@MaMa1904)
--->
-
-<!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=MaMa1904&color=00b4d8&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/MaMa1904?label=Followers&style=flat-square&color=00b4d8&labelColor=0d1117)](https://github.com/MaMa1904?tab=followers)
+[![Mahi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaMa1904\&bg_color=0d1117\&color=00e5ff\&line=00b4d8\&point=00e5ff\&area=true\&area_color=00b4d8\&hide_border=false\&border_color=00b4d8\&custom_title=Contribution%20Telemetry)](https://github.com/MaMa1904)
 
 </div>
 
 ---
 
-### `~/mahi-priya » cat roadmap.log`
+## 🔥 Commits • Contributions • Consistency
 
-```
-[INFO]  ✅  Linux & Bash scripting  ────────────────────────  MASTERED
-[INFO]  ✅  Git & version control   ────────────────────────  MASTERED
-[INFO]  ✅  AWS Cloud Services      ────────────────────────  MASTERED
-[INFO]  🔄  GitHub Actions CI/CD     ████████████░░░░░░░░░░  IN PROGRESS
-[INFO]  🔄  Docker Containers        ██████████░░░░░░░░░░░░  IN PROGRESS
-[INFO]  ⏳  Kubernetes (CKA path)    ████░░░░░░░░░░░░░░░░░░  LEARNING
-[INFO]  ⏳  Terraform IaC            ██████░░░░░░░░░░░░░░░░  LEARNING
-[INFO]  🔜  Multi-cloud architecture ░░░░░░░░░░░░░░░░░░░░░░  NEXT UP
-[INFO]  🔜  DevOps with ArgoCD       ░░░░░░░░░░░░░░░░░░░░░░  NEXT UP
-[INFO]  🔜  Ansible Automation       ░░░░░░░░░░░░░░░░░░░░░░  NEXT UP
-[INFO]  🔜  OpenTelemetry & Loki     ░░░░░░░░░░░░░░░░░░░░░░  NEXT UP
-[INFO]  🔜  Service Mesh (Istio)     ░░░░░░░░░░░░░░░░░░░░░░  NEXT UP
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MaMa1904&show_icons=true&hide_title=true&hide_rank=true&hide=issues,prs&theme=dark&bg_color=0d1117&border_color=00b4d8&title_color=00e5ff&text_color=c9d1d9&icon_color=00e5ff&include_all_commits=true&count_private=true"/>
+
+</div>
+
+> **Every commit is a step forward. Every contribution is part of the journey. 🚀**
+
+---
+
+## 🧠 Current Learning Path
+
+```text
+AWS Cloud
+    │
+    ├── ☁️ Cloud Architecture
+    ├── 🔐 IAM & Security
+    ├── 📊 Monitoring
+    │
+    ▼
+DevOps
+    │
+    ├── ⚙️ GitHub Actions
+    ├── 🐳 Docker
+    ├── ☸️ Kubernetes
+    ├── 🏗️ Terraform
+    │
+    ▼
+🚀 Cloud-Native Engineering
 ```
 
 ---
 
-### `~/mahi-priya » ./connect.sh`
+## 🌱 Open Source
+
+I'm interested in contributing to:
+
+* Cloud & DevOps projects
+* Developer tooling
+* Infrastructure automation
+* Cloud-native technologies
+* Beginner-friendly open source projects
+
+**Always learning. Always building. Always automating.**
+
+---
+
+## 📫 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahi-priya-boppudi-584180297)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahip6044@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaMa1904)
+<a href="https://github.com/MaMa1904">
+<img src="https://img.shields.io/badge/GitHub-MaMa1904-0d1117?style=for-the-badge&logo=github&logoColor=00e5ff"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mahi-priya-boppudi-584180297">
+<img src="https://img.shields.io/badge/LinkedIn-Mahi%20Priya-0d1117?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/>
+</a>
+
+<a href="mailto:mahip6044@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
 </div>
 
@@ -219,25 +210,16 @@ fun_fact: >
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║    "Automate the boring stuff. Ship the exciting stuff.          ║
-║     Leave the infra better than you found it."                   ║
-║                                                       — Mahi  ✨ ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+### ⚡ `build → automate → deploy → monitor → repeat`
 
-$ shutdown --message "See you on the other side!" --restart
-<br/>
-Crafted with 💙 and way too many yaml files by
-<br/>
-✨ Mahi Priya ✨
-<br/>
-keep_learning: true  |  keep_building: true  |  keep_automating: true
-<br/>
-👋 Thanks for stopping by — go automate something amazing! 👋
-<br/>
+<img src="https://komarev.com/ghpvc/?username=MaMa1904&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:00b4d8,100:0d1117&height=110&section=footer"/>
+<br><br>
+
+**Thanks for stopping by! 👋**
+
+*Keep learning. Keep building. Keep automating.* 🚀
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=120&section=footer"/>
+
 </div>
