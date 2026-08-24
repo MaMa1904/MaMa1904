@@ -109,21 +109,43 @@ I'm a **Cloud & DevOps enthusiast** who enjoys turning infrastructure, automatio
 
 ---
 
-# 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
-### 💻 My GitHub at a Glance
+### 🖥️ My GitHub at a Glance
 
-<img src="https://github-readme-stats.vercel.app/api?username=MaMa1904&show_icons=true&theme=dark&bg_color=0d1117&border_color=00b4d8&title_color=00e5ff&text_color=c9d1d9&icon_color=00b4d8&include_all_commits=true&count_private=true&rank_icon=github"/>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<br><br>
+### 📝 Commits
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaMa1904&theme=github_dark"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMaMa1904&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&color=00b4d8&labelColor=0d1117" />
 
-<br><br>
+</td>
 
-<img src="https://streak-stats.demolab.com?user=MaMa1904&theme=dark&background=0d1117&border=00b4d8&stroke=00b4d8&ring=00e5ff&fire=00e5ff&currStreakNum=00e5ff&sideNums=c9d1d9&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=c9d1d9"/>
+<td align="center" width="50%">
+
+### 🔥 Contributions
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaMa1904&theme=github_dark" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 📈 Contribution Overview
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaMa1904&bg_color=0d1117&color=00e5ff&line=00b4d8&point=00e5ff&area=true&hide_border=false&border_color=00b4d8&custom_title=Contribution%20Telemetry" />
+
+<br>
+
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=MaMa1904&theme=dark&background=0d1117&border=00b4d8&stroke=00b4d8&ring=00e5ff&fire=00e5ff&currStreakNum=00e5ff&sideNums=c9d1d9&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=c9d1d9" />
 
 </div>
 
